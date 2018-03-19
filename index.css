@@ -1,0 +1,50 @@
+.logo, .missionOne {
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.logo {
+  background-image: url("newCALMLogo.jpg");
+  min-height: 600px;
+  background-size: cover;
+}
+
+.missionOne {
+  background-image: url("MissionPartOne.jpg");
+  min-height: 600px;
+  background-size: contain;
+}
+
+body {
+  text-align: left;
+  /*background-color: #e0e0e0ff;*/
+  background-color: #37474f;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.6;
+}
+/*
+h1.home {
+  color: #e0e0e0;
+  font-family: 'Oswald', sans-serif;
+}*/
+.quote {
+  font-size: 160%;
+  color: #cacaca;
+  font-style: italic;
+  margin: 70px;
+}
+auth {
+  font-style: normal;
+  text-decoration: overline;
+  font-size: 90%;
+  color: #cacaca;
+}
+.missionTwo {
+  text-align: center;
+  color: #9e9e9e;
+  font-size: 240%;
+  font-family: 'Oswald', sans-serif;
+  margin: 70px;
+}
+
