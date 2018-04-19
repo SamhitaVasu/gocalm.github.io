@@ -5,13 +5,13 @@
   background-repeat: no-repeat;
 }
 .logo {
-  background-image: url("newCALMLogo.jpg");
+  background-image: url("https://samhitavasu.github.io/gocalm.github.io/newCALMLogo.jpg");
   min-height: 600px;
   background-size: cover;
 }
 
 .missionOne {
-  background-image: url("MissionPartOne.jpg");
+  background-image: url("https://samhitavasu.github.io/gocalm.github.io/MissionPartOne.jpg");
   min-height: 600px;
   background-size: contain;
 }
