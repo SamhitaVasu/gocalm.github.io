@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300|Oswald:200');
+
 .logo, .missionOne {
   position: relative;
   background-attachment: fixed;
@@ -5,13 +7,13 @@
   background-repeat: no-repeat;
 }
 .logo {
-  background-image: url("newCALMLogo.jpg");
+  background-image: url("https://samhitavasu.github.io/gocalm.github.io/newCALMLogo.jpg");
   min-height: 600px;
   background-size: cover;
 }
 
 .missionOne {
-  background-image: url("MissionPartOne.jpg");
+  background-image: url("https://samhitavasu.github.io/gocalm.github.io/MissionPartOne.jpg");
   min-height: 600px;
   background-size: contain;
 }
@@ -42,9 +44,8 @@ auth {
 }
 .missionTwo {
   text-align: center;
-  color: #9e9e9e;
+  color: #cacaca;
   font-size: 240%;
   font-family: 'Oswald', sans-serif;
   margin: 70px;
 }
-
