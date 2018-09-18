@@ -1,2 +1,2 @@
 # gocalm.github.io
-Website for CALM Foundation
+# Welcome to Creative Adaptive Lucid Mind
